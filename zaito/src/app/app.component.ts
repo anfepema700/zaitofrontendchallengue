@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { RestService } from './rest.service';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,20 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'zaito';
+
+  public listadatos:Array<any> = []
+    constructor(private RestService:RestService){
+
+    }
+
+    ngOnInit(): void{
+      this.cargarData();
+    }
+    public cargarData(){
+      this.RestService.get('./assets/info.json')
+      .subscribe(respuesta=>{
+        console.log(respuesta);
+      })
+    }
 }
+
