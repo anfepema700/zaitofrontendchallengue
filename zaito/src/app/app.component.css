@@ -1,4 +1,47 @@
-i {
-    font-size: 20px;
-    ;
+* {
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+.placeholdersearch::placeholder {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+}
+
+.titlecomponents {
+    padding: 30px;
+    font-size: 2em;
+}
+
+.imagencategoria {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.categorias {
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+}
+
+.listastyle {
+    text-align: center;
+}
+
+.imagecategory {
+    border-radius: 100px;
+}
+
+.stylecategory {
+    width: 100%;
+    min-width: 30px;
+    text-align: center;
+    font-size: 2vh;
+}
+
+.imagencompany {
+    text-align: left;
+    width: 30px;
 }

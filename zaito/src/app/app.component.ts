@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { RestService } from './rest.service';
-import data from 'src/assets/info.json'
 
 @Component({
   selector: 'app-root',

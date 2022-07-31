@@ -4,23 +4,18 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HttpClientModule } from '@angular/common/http';
-import {CardModule} from 'primeng/card';
-import { CategoriasComponent } from './categorias/categorias.component';
-
 
 
 @NgModule({
   declarations: [
-    AppComponent,
-    CategoriasComponent
-  ],
+    AppComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
     HttpClientModule,
-    CardModule
    ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+
+export class AppModule{}
