@@ -80,7 +80,8 @@
             "quantity": 1,
             "inventoryStatus": "OUTOFSTOCK",
             "rating": 4,
-            "company": "https://img.remediosdigitales.com/96633b/140013_cor/450_1000.jpg"
+            "company": "https://img.remediosdigitales.com/96633b/140013_cor/450_1000.jpg",
+            "discount": 0
         },
         {
             "id": "1006",

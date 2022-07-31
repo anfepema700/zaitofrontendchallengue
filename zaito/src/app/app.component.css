@@ -4,6 +4,12 @@
     text-align: center;
 }
 
+.placeholdersearch {
+    text-align: left;
+    border-radius: 10px;
+    font-size: 5vh;
+}
+
 .placeholdersearch::placeholder {
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -11,7 +17,7 @@
 
 .titlecomponents {
     padding: 30px;
-    font-size: 2em;
+    font-size: 10vh;
 }
 
 .imagencategoria {
@@ -35,10 +41,20 @@
 }
 
 .stylecategory {
+    display: inline-flex;
     width: 100%;
-    min-width: 30px;
     text-align: center;
+    position: static;
+    top: 20px;
+    padding: 10px;
+    margin: 10px;
     font-size: 2vh;
+}
+
+.stylecategory img {
+    border-radius: 10px;
+    width: 120px;
+    align-items: center;
 }
 
 .imagencompany {
