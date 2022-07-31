@@ -1,75 +1,86 @@
 {
     "data": [{
-            "id": "1000",
-            "code": "f230fh0g3",
-            "name": "Bamboo Watch",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/bamboo-watch.jpg",
-            "price": 65,
-            "category": "Accessories",
-            "quantity": 24,
-            "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "id": "1",
+            "code": "921",
+            "name": "Llanta rin 16",
+            "description": "Llanta ",
+            "image": "https://www.virtualllantas.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/r/bridgestone_POTENZA_GIII_1_2_10.jpg",
+            "price": 100000,
+            "category": "Repuestos",
+            "quantity": 4,
+            "inventoryStatus": "disponible",
+            "rating": 1,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg",
+            "discount": 10
         },
         {
-            "id": "1001",
-            "code": "nvklal433",
-            "name": "Black Watch",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/black-watch.jpg",
-            "price": 72,
-            "category": "Accessories",
-            "quantity": 61,
+            "id": "2",
+            "code": "922",
+            "name": "Puerta delantera izquierda",
+            "description": "Puerta delantera izquierda en base lista para pintar",
+            "image": "https://autolatas.com.co/8175-large_default/puerta-delantera-izquierda-mazda-3-2007-a-2012-on-usada.jpg",
+            "price": 720000,
+            "category": "Accesorios",
+            "quantity": 10,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://w7.pngwing.com/pngs/33/202/png-transparent-mazda-bt-50-car-mazda-cx-5-mazda3-mazda-emblem-logo-car.png",
+            "discount": 10
         },
         {
-            "id": "1002",
-            "code": "zz21cz3c1",
-            "name": "Blue Band",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/blue-band.jpg",
-            "price": 79,
-            "category": "Fitness",
+            "id": "3",
+            "code": "923",
+            "name": "Farola Led",
+            "description": "Farola led 12v",
+            "image": "http://www.tubodegaled.com/images/stories/virtuemart/product/resized/TB019_560x560.jpg",
+            "price": 79000,
+            "category": "Accesorios",
             "quantity": 2,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://tubodegaled.co/wp-content/uploads/2021/09/productos-led-para-vehiculos.png",
+            "discount": 20
         },
         {
-            "id": "1003",
-            "code": "244wgerg2",
-            "name": "Blue T-Shirt",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/blue-t-shirt.jpg",
-            "price": 29,
-            "category": "Clothing",
+            "id": "4",
+            "code": "924",
+            "name": "Casco shaft",
+            "description": "Casco shaft certificado internaciónal RTC",
+            "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img/https://shafthelmets.com/wp-content/uploads/2021/11/0000_SHAFT-526-SOLID-NM-LATERAL.jpg",
+            "price": 290000,
+            "category": "Accesorios",
             "quantity": 25,
             "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://cascoscertificados.org/wp-content/uploads/2019/01/logo-shaft.png",
+            "discount": 3
         },
         {
-            "id": "1004",
-            "code": "h456wer53",
-            "name": "Bracelet",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/bracelet.jpg",
-            "price": 15,
-            "category": "Accessories",
+            "id": "5",
+            "code": "925",
+            "name": "Volante Toyota xs",
+            "description": "Volante timón toyota xs",
+            "image": "https://www.elcarrocolombiano.com/wp-content/uploads/2022/02/toyota-volante-inflable-.jpg",
+            "price": 1500000,
+            "category": "Accessorios",
             "quantity": 73,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "http://assets.stickpng.com/images/580b57fcd9996e24bc43c4a3.png",
+            "discount": 25
         },
         {
-            "id": "1005",
-            "code": "av2231fwg",
-            "name": "Brown Purse",
-            "description": "Product Description",
-            "image": "https://www.primefaces.org/primeng/showcase/assets/showcase/images/demo/product/brown-purse.jpg",
-            "price": 120,
-            "category": "Accessories",
-            "quantity": 0,
+            "id": "6",
+            "code": "926",
+            "name": "Volante Ferrari",
+            "description": "Volante ferrari",
+            "image": "https://img.pccomponentes.com/articles/6/66166/thrustmaster-ferrari-458-spider-para-xbox-one.jpg?x=480&quality=40",
+            "price": 5500000,
+            "category": "Accesorios",
+            "quantity": 1,
             "inventoryStatus": "OUTOFSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://img.remediosdigitales.com/96633b/140013_cor/450_1000.jpg"
         },
         {
             "id": "1006",
@@ -81,7 +92,8 @@
             "category": "Accessories",
             "quantity": 5,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1007",
@@ -93,7 +105,8 @@
             "category": "Accessories",
             "quantity": 23,
             "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1008",
@@ -105,7 +118,8 @@
             "category": "Electronics",
             "quantity": 2,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1009",
@@ -117,7 +131,8 @@
             "category": "Electronics",
             "quantity": 63,
             "inventoryStatus": "INSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1010",
@@ -129,7 +144,8 @@
             "category": "Accessories",
             "quantity": 0,
             "inventoryStatus": "OUTOFSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1011",
@@ -141,7 +157,8 @@
             "category": "Electronics",
             "quantity": 23,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1012",
@@ -153,7 +170,8 @@
             "category": "Clothing",
             "quantity": 74,
             "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1013",
@@ -165,7 +183,8 @@
             "category": "Clothing",
             "quantity": 0,
             "inventoryStatus": "OUTOFSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1014",
@@ -177,7 +196,8 @@
             "category": "Electronics",
             "quantity": 8,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1015",
@@ -189,7 +209,8 @@
             "category": "Clothing",
             "quantity": 34,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1016",
@@ -201,7 +222,8 @@
             "category": "Fitness",
             "quantity": 12,
             "inventoryStatus": "INSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1017",
@@ -213,7 +235,8 @@
             "category": "Clothing",
             "quantity": 42,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1018",
@@ -225,7 +248,8 @@
             "category": "Accessories",
             "quantity": 41,
             "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1019",
@@ -237,7 +261,8 @@
             "category": "Fitness",
             "quantity": 63,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1020",
@@ -249,7 +274,8 @@
             "category": "Accessories",
             "quantity": 0,
             "inventoryStatus": "OUTOFSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1021",
@@ -261,7 +287,8 @@
             "category": "Fitness",
             "quantity": 6,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1022",
@@ -273,7 +300,8 @@
             "category": "Accessories",
             "quantity": 62,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1023",
@@ -285,7 +313,8 @@
             "category": "Clothing",
             "quantity": 2,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1024",
@@ -297,7 +326,8 @@
             "category": "Clothing",
             "quantity": 0,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1025",
@@ -309,7 +339,8 @@
             "category": "Clothing",
             "quantity": 52,
             "inventoryStatus": "INSTOCK",
-            "rating": 4
+            "rating": 4,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1026",
@@ -321,7 +352,8 @@
             "category": "Clothing",
             "quantity": 3,
             "inventoryStatus": "LOWSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1027",
@@ -333,7 +365,8 @@
             "category": "Electronics",
             "quantity": 35,
             "inventoryStatus": "INSTOCK",
-            "rating": 3
+            "rating": 3,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1028",
@@ -345,7 +378,8 @@
             "category": "Fitness",
             "quantity": 15,
             "inventoryStatus": "INSTOCK",
-            "rating": 5
+            "rating": 5,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         },
         {
             "id": "1029",
@@ -357,7 +391,8 @@
             "category": "Fitness",
             "quantity": 25,
             "inventoryStatus": "INSTOCK",
-            "rating": 8
+            "rating": 8,
+            "company": "https://i.pinimg.com/originals/1e/6b/bf/1e6bbfbb037ef6c962e1bb5621d97d23.jpg"
         }
     ]
 }
