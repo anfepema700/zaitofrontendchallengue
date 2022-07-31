@@ -30,3 +30,9 @@ Funciones:
 
 - **cargarData():** esta función lee el archivo json y arma el objeto listadatos el cual contiene toda la información obtenida del objeto. 
 - **Class FilterPipe:** encargada de filtrar los objetos del archivo
+
+
+
+***Este proyecto no contiene derechos de author basado en versión libre*** 
+
+**
