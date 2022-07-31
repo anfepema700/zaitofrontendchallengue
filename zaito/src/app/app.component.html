@@ -19,7 +19,7 @@
             </p>
         </div>
         <!--Buscar o filtrar-->
-        <input type="text " class="placeholdersearch" placeholder=" Buscar ">
+        <input type="text " class="placeholdersearch" placeholder=" Buscar " [(ngModel)]="filterPost" name="filterPost">
         <i class="fa-solid fa-filter"></i>
         <br>
         <br>
@@ -56,7 +56,7 @@
         <br>
         <!--Listado de productos-->
         <div class="justify-content-center row row-cols-1 row-cols-md-3 row-cols-sm-1 g-4">
-            <div *ngFor="let a of listadatos.data" class="card mb-4 listastyle" style="max-width: px;">
+            <div *ngFor="let a of listadatos.data | filter:filterPost" class="card mb-4 listastyle" style="max-width: px;">
                 <div class="row g-0 ">
                     <div class="col-md-4">
                         <img src="{{a.image}}" class="img-fluid rounded-start border border-3 imagencategoria position-absolute top-50 start-0 translate-middle-y translate-middle" alt="{{a.description}}">

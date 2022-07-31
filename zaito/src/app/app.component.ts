@@ -6,6 +6,7 @@ import { RestService } from './rest.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
   title = 'zaito';
 
@@ -14,6 +15,8 @@ public listadatos:any = []
 constructor(private RestService:RestService){
 
 }
+filterPost='';
+
 
 ngOnInit(): void{
   this.cargarData();
