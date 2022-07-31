@@ -14,11 +14,11 @@ Descarga el archivo con el comando:  ***git clone https://github.com/anfepema700
 
 accede a la raíz: **cd zaitofrontendchallengue/zaito**
 
-Correr el comando: npm install
+Correr el comando: ***npm install***
 
-Correr el comando: **ng serve -o**
+Correr el comando: ***ng serve -o***
 
-Abrir el navegador e ingresar: localhost:4200
+Abrir el navegador e ingresar: ***localhost:4200***
 
 
 
@@ -28,5 +28,5 @@ Este proyecto fue desarrollado en angular 14, node js v 13, usa boostrap 5, font
 
 Funciones: 
 
--  cargarData(): esta función lee el archivo json y arma el objeto listadatos el cual contiene toda la información obtenida del objeto. 
-- Class FilterPipe: encargada de filtrar los objetos del archivo
+- **cargarData():** esta función lee el archivo json y arma el objeto listadatos el cual contiene toda la información obtenida del objeto. 
+- **Class FilterPipe:** encargada de filtrar los objetos del archivo
