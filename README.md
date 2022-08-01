@@ -4,7 +4,7 @@ Este proyecto es la aplicación FRONTEND propuesta en la prueba de Zaito busca c
 
 - Cargar datos de almacen. 
 - Poder filtrar
-- Vista adaptada para *mobie* dimensiones sugeridas 531 x 599
+- Vista adaptada para *mobile* dimensiones sugeridas 531 x 599
 
 ## Ver en linea
 
